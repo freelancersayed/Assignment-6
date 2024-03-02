@@ -1,0 +1,13 @@
+#i-text{
+    display: none;
+}
+
+#i-div:hover #i-text{
+    display: block;
+}
+
+#bg-image{
+    background-image: url(./images/bgbanner.png);
+    padding: 50px;
+
+}
